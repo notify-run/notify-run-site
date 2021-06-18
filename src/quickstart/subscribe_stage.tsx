@@ -50,7 +50,7 @@ export class SubscribeStage extends React.Component<SubscribeStageProps, Subscri
                         Your new channel is called <samp style={{ fontWeight: 'bold' }}>{this.props.channelId}</samp>.
                     </p>
                     <p>
-                        To recieve notifications on a device (such as a desktop or phone), <strong>subscribe</strong> them
+                        To receive notifications on a device (such as a desktop or phone), <strong>subscribe</strong> them
                         to your channel. If multiple devices are subscribed to the same channel,
                         they will all receive notifications.
                     </p>
